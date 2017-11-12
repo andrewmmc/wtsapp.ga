@@ -7,13 +7,15 @@
 ![Screen Capture](static/img/screenshot.png)
 
 ## Live Demo
-- [Add9u.com](http://add9u.com)
+- [Add9u.com](https://add9u.com)
 
-Want a quicker way? You can directly add the phone number with country code after `http://add9u.com/whatsapp/`.
+It is a progressive web application. Just directly add it to your home screen if you have an Android device.
+
+Want a quicker way? You can directly add the phone number with country code after `https://add9u.com/whatsapp/`.
 
 Take a phone number `94340634` with country code `+852` as an example:
 ```
-http://add9u.com/whatsapp/85294340634
+https://add9u.com/whatsapp/85294340634
 ```
 
 ## Clone & Install
