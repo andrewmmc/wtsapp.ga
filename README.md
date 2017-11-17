@@ -1,6 +1,6 @@
-# Add9u.com
+# Add9u.com - Send WhatsApp message to new person with one click
 
-> It is so stupid that I have to add a new person every time to phone book because of just sending a WhatsApp message.
+> It is so stupid that I have to add a new person every time to phone book because I want to send a WhatsApp message to him/her.
 > 
 > That's why I make this simple progressive web application. It allows you to send a WhatsApp message to a person without adding him/her to the phone book.
 
@@ -52,7 +52,7 @@ npm run build --report
 
 ## Authors
 
-- [Andrew Mok](https://andrewmmc.com) <hello@andrewmmc.com>
+- [Andrew Mok](https://andrewmmc.com) (@andrewmmc)
 
 ## Declaration
 This is NOT an official product by WhatsApp Inc. Any communication between users and WhatsApp servers is handled by official WhatsApp application. It only provides a shortcut for users to open official WhatsApp application by using API links.

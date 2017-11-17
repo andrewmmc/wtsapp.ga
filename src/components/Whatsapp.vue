@@ -1,6 +1,7 @@
 <template>
   <div class="whatsapp">
     <icon name="whatsapp" scale="6"></icon>
+    <p class="leading">Message +{{ this.$route.params.phoneNumber }}</p>
   </div>
 </template>
 
