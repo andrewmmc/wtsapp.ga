@@ -8,6 +8,7 @@
 <script>
   import 'vue-awesome/icons/whatsapp'
   import Icon from 'vue-awesome/components/Icon'
+  import * as Url from '@/common/Url'
 
   export default {
     name: 'Whatsapp',
@@ -19,7 +20,7 @@
     },
     methods: {
       redirect (phoneNumber) {
-        window.location.href = 'https://api.whatsapp.com/send?phone=' + phoneNumber
+        window.location.href = Url.WHATSAPP_URL + phoneNumber
       }
     }
   }

@@ -21,7 +21,8 @@
 <script>
   import 'vue-awesome/icons/whatsapp'
   import Icon from 'vue-awesome/components/Icon'
-  import CountryList from '@/components/CountryList'
+  import CountryList from '@/common/CountryList'
+  import * as Url from '@/common/Url'
 
   export default {
     name: 'home',
@@ -35,6 +36,7 @@
     },
     data () {
       return {
+        // TODO: Fix hardcode, use geo data instead
         countryCode: '852',
         phoneNumber: '',
         countryCodeOptions: CountryList.country
@@ -43,11 +45,10 @@
     methods: {
       onSubmit (e) {
         e.preventDefault()
-        if (this.countryCode !== '' && this.phoneNumber !== '') {
-          // remove leading zero
-          this.phoneNumber = this.phoneNumber.replace(/^0+/, '')
-          this.$router.push({name: 'Whatsapp', params: {phoneNumber: this.countryCode + this.phoneNumber}})
-        }
+        // remove leading zero
+        this.phoneNumber = this.phoneNumber.replace(/^0+/, '')
+        window.location.href = Url.WHATSAPP_URL + this.countryCode + this.phoneNumber
+        // this.$router.push({name: 'Whatsapp', params: {phoneNumber: this.countryCode + this.phoneNumber}})
       }
     }
   }

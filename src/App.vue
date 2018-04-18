@@ -14,7 +14,7 @@
       <b-container>
         <b-link href="https://github.com/andrewmmc/add9u" target="_blank">Github</b-link>
         <b-link :to="{name: 'OpenSourceLicenses'}">Open Source Licenses</b-link>
-        <b-link href="https://andrewmmc.com" target="_blank">(c) 2017 Andrew Mok</b-link>
+        <b-link href="https://andrewmmc.com" target="_blank">(c) 2017 - 2018 Andrew Mok</b-link>
       </b-container>
     </footer>
   </div>
