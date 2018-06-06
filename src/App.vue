@@ -2,7 +2,7 @@
   <div id="app">
     <b-navbar toggleable="md" type="dark" variant="green-primary" sticky>
       <b-container>
-        <b-navbar-brand :to="{name: 'Home'}">Add9u.com</b-navbar-brand>
+        <b-navbar-brand :to="{name: 'Home'}">LazySend.com</b-navbar-brand>
       </b-container>
     </b-navbar>
     <main>

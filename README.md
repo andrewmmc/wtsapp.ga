@@ -1,4 +1,4 @@
-# Add9u.com - Send WhatsApp message to new person with one click
+# LazySend.com - Send WhatsApp message to new person with one click
 
 > It is so stupid that I have to add a new person every time to phone book because I want to send a WhatsApp message to him/her.
 > 
@@ -7,15 +7,15 @@
 ![Screen Capture](static/img/screenshot.png)
 
 ## Live Demo
-- [Add9u.com](https://add9u.com)
+- [LazySend.com](https://lazysend.com)
 
 It is a progressive web application. Just directly add it to your home screen if you have an Android device.
 
-Want a quicker way? You can directly add the phone number with country code after `https://add9u.com/whatsapp/`.
+Want a quicker way? You can directly add the phone number with country code after `https://lazysend.com/whatsapp/`.
 
 Take a phone number `94340634` with country code `+852` as an example:
 ```
-https://add9u.com/whatsapp/85294340634
+https://lazysend.com/whatsapp/85294340634
 ```
 
 ## Clone & Install

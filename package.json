@@ -1,7 +1,7 @@
 {
-  "name": "add9u",
-  "version": "1.0.2",
-  "description": "Add9u.com project",
+  "name": "LazySend",
+  "version": "1.3.0",
+  "description": "LazySend.com project",
   "author": "Andrew Mok <hello@andrewmmc.com>",
   "private": true,
   "scripts": {
