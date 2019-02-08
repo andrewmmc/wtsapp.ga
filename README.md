@@ -1,5 +1,7 @@
 # LazySend.com
-**Former name: Add9u.** Built with Vue, PWA.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ab92e7c-f020-4dea-8db4-1853ac083e95/deploy-status)](https://app.netlify.com/sites/lazysend/deploys)
+
+Built with Vue, PWA.
 
 It is so stupid that I have to add a new person every time to phone book because I want to send a WhatsApp message to him/her. 
 
