@@ -1,7 +1,7 @@
 {
-  "name": "LazySend",
-  "version": "1.3.0",
-  "description": "LazySend.com project",
+  "name": "wtapp.ga",
+  "version": "1.4.0",
+  "description": "Send a WhatsApp message to a person without adding him/her to phone book.",
   "author": "Andrew Mok <hello@andrewmmc.com>",
   "private": true,
   "scripts": {

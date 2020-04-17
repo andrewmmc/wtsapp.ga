@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "https://lazysend.netlify.com/*"
-  to = "https://lazysend.com/:splat"
-  status = 301
-  force = true

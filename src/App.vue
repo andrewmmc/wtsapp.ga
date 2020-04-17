@@ -2,7 +2,7 @@
   <div id="app">
     <b-navbar toggleable="md" type="dark" variant="green-primary" sticky>
       <b-container>
-        <b-navbar-brand :to="{name: 'Home'}">LazySend.com</b-navbar-brand>
+        <b-navbar-brand :to="{name: 'Home'}">Wtapp.ga</b-navbar-brand>
       </b-container>
     </b-navbar>
     <main>
@@ -12,11 +12,11 @@
     </main>
     <footer>
       <b-container>
-        <b-link href="https://github.com/andrewmmc/add9u" target="_blank">Github</b-link>
+        <b-link href="https://github.com/andrewmmc/wtapp.ga" target="_blank">Github</b-link>
         <b-link :to="{name: 'OpenSourceLicenses'}">Open Source Licenses</b-link>
         <b-link :to="{name: 'Licenses'}">Projects License</b-link>
         <b-link :to="{name: 'PrivacyPolicy'}">Privacy Policy</b-link>
-        <b-link href="https://andrewmmc.com" target="_blank">(c) 2017 - 2018 Andrew Mok</b-link>
+        <b-link href="https://andrewmmc.com" target="_blank">(c) 2020 Andrew Mok</b-link>
       </b-container>
     </footer>
   </div>
