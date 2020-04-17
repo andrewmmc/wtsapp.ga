@@ -1,4 +1,4 @@
-# Wtapp.ga
+# Wtsapp.ga
 Built with Vue, PWA.
 
 It is so stupid that I have to add a new person every time to phone book because I want to send a WhatsApp message to him/her. 
@@ -6,9 +6,9 @@ It is so stupid that I have to add a new person every time to phone book because
 That's why I make this simple progressive web application. It allows you to send a WhatsApp message to a person without adding him/her to the phone book.
 
 ## Demo
-- [Wtapp.ga](https://wtapp.ga)
+- [Wtsapp.ga](https://wtsapp.ga)
 
-[![Screen Capture](static/img/screenshot.png)](https://wtapp.ga)
+[![Screen Capture](static/img/screenshot.png)](https://wtsapp.ga)
 
 ## Usage
 It is a progressive web application. Just directly add it to your home screen if you have an Android device.

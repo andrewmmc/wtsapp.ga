@@ -1,6 +1,6 @@
 <template>
   <div class="licenses">
-    <h2>Projects License for Wtapp.ga</h2>
+    <h2>Projects License for Wtsapp.ga</h2>
     <pre>
 MIT License
 

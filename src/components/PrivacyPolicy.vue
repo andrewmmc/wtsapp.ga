@@ -4,9 +4,9 @@
     <p>Update and effective date: Apr 18, 2020</p>
 
     <p>
-      Wtapp.ga ("us", "we", or "our") operates the
-      <b-link href="https://wtapp.ga" target="_blank">https://wtapp.ga</b-link> website and the
-      Wtapp.ga mobile application
+      Wtsapp.ga ("us", "we", or "our") operates the
+      <b-link href="https://wtsapp.ga" target="_blank">https://wtsapp.ga</b-link> website and the
+      Wtsapp.ga mobile application
       (the "Service").
     </p>
 
@@ -102,7 +102,7 @@
 
     <h3>Use of Data</h3>
 
-    <p>Wtapp.ga uses the collected data for various purposes:</p>
+    <p>Wtsapp.ga uses the collected data for various purposes:</p>
     <ul>
       <li>To provide and maintain the Service</li>
       <li>To notify you about changes to our Service</li>
@@ -134,7 +134,7 @@
       represents your agreement to that transfer.
     </p>
     <p>
-      Wtapp.ga will take all steps reasonably necessary to ensure that your data is
+      Wtsapp.ga will take all steps reasonably necessary to ensure that your data is
       treated securely and in accordance
       with this Privacy Policy and no transfer of your Personal Data will take place to an
       organization or a country unless
@@ -146,12 +146,12 @@
 
     <h4>Legal Requirements</h4>
     <p>
-      Wtapp.ga may disclose your Personal Data in the good faith belief that such
+      Wtsapp.ga may disclose your Personal Data in the good faith belief that such
       action is necessary to:
     </p>
     <ul>
       <li>To comply with a legal obligation</li>
-      <li>To protect and defend the rights or property of Wtapp.ga</li>
+      <li>To protect and defend the rights or property of Wtsapp.ga</li>
       <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
       <li>To protect the personal safety of users of the Service or the public</li>
       <li>To protect against legal liability</li>
