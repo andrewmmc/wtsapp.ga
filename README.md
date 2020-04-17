@@ -8,8 +8,6 @@ That's why I make this simple progressive web application. It allows you to send
 ## Demo
 - [Wtsapp.ga](https://wtsapp.ga)
 
-[![Screen Capture](static/img/screenshot.png)](https://wtsapp.ga)
-
 ## Usage
 It is a progressive web application. Just directly add it to your home screen if you have an Android device.
 
