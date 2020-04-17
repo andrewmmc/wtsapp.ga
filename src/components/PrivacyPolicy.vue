@@ -5,7 +5,7 @@
 
     <p>
       Wtapp.ga ("us", "we", or "our") operates the
-      <b-link href="https://wtapp.ga" target="_blank">https://wtapp.ga</b-link>website and the
+      <b-link href="https://wtapp.ga" target="_blank">https://wtapp.ga</b-link> website and the
       Wtapp.ga mobile application
       (the "Service").
     </p>
@@ -229,8 +229,8 @@
 
 <script>
 export default {
-  name: "PrivacyPolicy"
-};
+  name: 'PrivacyPolicy'
+}
 </script>
 
 <style lang="scss" scoped>

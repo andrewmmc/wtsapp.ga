@@ -17,8 +17,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 <script>
 export default {
-  name: "Licenses"
-};
+  name: 'Licenses'
+}
 </script>
 
 <style lang="scss" scoped>

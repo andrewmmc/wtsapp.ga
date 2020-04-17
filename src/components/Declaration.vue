@@ -7,8 +7,8 @@
 
 <script>
 export default {
-  name: "Declaration"
-};
+  name: 'Declaration'
+}
 </script>
 
 <style lang="scss" scoped>
