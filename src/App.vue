@@ -2,7 +2,7 @@
   <div id="app">
     <b-navbar toggleable="md" type="dark" variant="green-primary" sticky>
       <b-container>
-        <b-navbar-brand :to="{name: 'Home'}">Add9u.com</b-navbar-brand>
+        <b-navbar-brand :to="{name: 'Home'}">Wtsapp.ga</b-navbar-brand>
       </b-container>
     </b-navbar>
     <main>
@@ -12,9 +12,12 @@
     </main>
     <footer>
       <b-container>
-        <b-link href="https://github.com/andrewmmc/add9u" target="_blank">Github</b-link>
+        <b-link href="https://github.com/andrewmmc/wtsapp.ga" target="_blank">GitHub</b-link>
+        <b-link href="https://github.com/sponsors/andrewmmc" target="_blank">Support Us</b-link>
         <b-link :to="{name: 'OpenSourceLicenses'}">Open Source Licenses</b-link>
-        <b-link href="https://andrewmmc.com" target="_blank">(c) 2017 Andrew Mok</b-link>
+        <b-link :to="{name: 'Licenses'}">Project License</b-link>
+        <b-link :to="{name: 'PrivacyPolicy'}">Privacy Policy</b-link>
+        <b-link href="https://andrewmmc.com" target="_blank">(c) {{ year }} Andrew Mok</b-link>
       </b-container>
     </footer>
   </div>
@@ -22,7 +25,12 @@
 
 <script>
   export default {
-    name: 'app'
+    name: 'app',
+    data () {
+      return {
+        year: new Date().getFullYear()
+      }
+    }
   }
 </script>
 

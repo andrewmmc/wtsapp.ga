@@ -1,8 +1,10 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/components/Home'
+import Declaration from '@/components/Declaration'
+import Licenses from '@/components/Licenses'
 import OpenSourceLicenses from '@/components/OpenSourceLicenses'
-import Whatsapp from '@/components/Whatsapp'
+import PrivacyPolicy from '@/components/PrivacyPolicy'
 
 Vue.use(Router)
 
@@ -20,9 +22,19 @@ export default new Router({
       component: OpenSourceLicenses
     },
     {
-      path: '/whatsapp/:phoneNumber',
-      name: 'Whatsapp',
-      component: Whatsapp
+      path: '/privacypolicy',
+      name: 'PrivacyPolicy',
+      component: PrivacyPolicy
+    },
+    {
+      path: '/declaration',
+      name: 'Declaration',
+      component: Declaration
+    },
+    {
+      path: '/licenses',
+      name: 'Licenses',
+      component: Licenses
     },
     {
       path: '/*',
